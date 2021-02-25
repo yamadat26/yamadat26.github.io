@@ -10,7 +10,7 @@ input[type="range"] {
   margin-top: 10px;
 }
 .btn {
-  color: #fff;
+  color: #fff!important;
 }
 .fas {
   padding-right: 5px
